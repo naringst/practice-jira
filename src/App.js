@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <a>바이 jira</a>
         <a>지라없이 커밋</a>
+        <p> version 2 </p>
         <a
           className="App-link"
           href="https://reactjs.org"
